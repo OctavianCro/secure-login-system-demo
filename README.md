@@ -1,4 +1,4 @@
-# secure login system (yython)
+# secure login system (python)
 
 This project demonstrates an insecure login system to a more secure authentication model using password hashing and salting.
 
